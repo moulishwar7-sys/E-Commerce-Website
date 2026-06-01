@@ -4,12 +4,11 @@
 </p>
 
 <br/>
-<p><strong>Team Members :-</strong> Deepanshu Gulia, Faruk Khan, Suraj Pathak, Shubham Kumar, Anand S Holla.</p>
+
 
 <hr/>
 
-<p>Steps to run our Website:- <strong>Just click on our deploy link to run our website</strong?</p>
-  <p>Deploy link:- <a href="https://nikemasaischoolclone.netlify.app/">https://nikemasaischoolclone.netlify.app/</a></p>
+
   
 <br/>
   
