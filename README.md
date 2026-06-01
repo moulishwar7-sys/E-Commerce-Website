@@ -1,5 +1,5 @@
-<h1 align="center">Clone of Nike.com</h1>
-<h3 align="center">Hello! This is a clone of official website nike.com. we made this clone with use of HTML, CSS, Javascript. Nike is very famous brand which makes sports product and sports essentials.</h3>
+<h1 align="center">NIKE clone website</h1>
+<h3 align="center">Hello! I am Moulishwar G B.Tech CSE student made a clone of official website nike. I made this clone with use of HTML, CSS, Javascript. Nike is very famous brand which makes sports product and sports essentials.</h3>
 
 </p>
 
